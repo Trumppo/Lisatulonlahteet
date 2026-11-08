@@ -1,0 +1,51 @@
+Platform,Product_Name,Category,Price_USD,Downloads_or_Sales_Proxy,Likes,Evidence_Class,URL_or_Note,Notes
+Cults3D,Articulated Dragon,Flexi Toy,3.99,High (bestseller),N/A,B,https://cults3d.com/en/creations/best-sellers,Typical top seller flexi/articulated
+Cults3D,Crystal Dragon Flexi,Flexi Toy,4.00,High,N/A,B,cults3d best sellers,Popular flexi
+Cults3D,Cute Flexi Frog,Flexi Toy,2.95,High,N/A,B,cults3d,Print-in-place
+Cults3D,Ender 3 Fan Duct,Printer Upgrade,1.61,High,N/A,B,cults3d bestsellers,Functional printer part
+Cults3D,Adderini Repeating Slingbow,Functional Toy,14.01,High,N/A,B,cults3d,Mechanical
+Cults3D,PETmachine Filament Maker,Functional Tool,27.92,High (discounted),N/A,B,cults3d bestsellers,Technical DIY
+Cults3D,Greek Temple Secret Storage,Organizer,N/A,N/A,47 likes (X),C,cults3d,Desk organizer
+Printables,Filament Clip Grandma's Favorite,Organizer/Clip,Free,145k+ downloads,31.5k,C,printables.com search tag:clip,Very high free downloads
+Printables,Bag Clip Print in Place,Organizer,Free,52k,8.1k,C,printables,Functional
+Printables,Honeycomb Storage Wall,Organizer,Free,285k,62.5k,C,printables tag:organizer,Extremely popular free
+Printables,Rugged Box Parametric,Organizer,Free,170k,36.6k,C,printables,Parametric
+Printables,Portable Cable Organizer,Cable Management,Free,108k,20.2k,C,printables,High demand free
+Printables,Socket Organizer,Tool Organizer,Free,9k,2.6k,C,printables,Functional tool
+Printables,Adjustable PCB Holder,Electronics Tool,Free,21k,7.4k,C,printables contest,Technical
+MakerWorld,Screw Generator Parametric,Parametric CAD,Free,24k+,61k downloads?,C,makerworld openscad collection,OpenSCAD generator high use
+MakerWorld,Gear Generator,Parametric,Free,18k,28.9k,C,makerworld,Technical parametric
+Etsy,Various Organizers/Stands,Organizer,16-40 median,High sales volume on eBay proxy,N/A,B,zikanalytics reports,Physical prints of organizers sell well; digital files similar
+Gumroad,Digital Tools/Scripts,Software/Tools,Varies,N/A,N/A,B,General,Suitable for automation scripts
+Home Assistant Marketplace,Alexa Media Player,Integration,Free,30.6k installs,N/A,C,vulpo.app,High adoption free; monetization potential for premium tools
+Home Assistant Marketplace,Waste Collection Schedule,Integration,Free,26.8k installs,N/A,C,vulpo,Popular
+Cults3D,Controller Holder Cubone,Functional Gadget,3.14,High,N/A,B,cults bestsellers,Themed functional
+Cults3D,Toilet Paper Hanger,Functional Home,2.52,High,N/A,B,cults,Simple functional
+Printables,HexScraper Printbed,Tool,Free,256k,37.6k,C,printables functional collection,Very high
+Printables,Cascade Card Wallet,Organizer,Free,142k,27.8k,C,printables,Print-in-place
+Cults3D,Modular Storage Drawer System,Organizer,6.82,High,N/A,B,cults best sellers page,Functional modular
+Printables,Skadis Mount Collection,Organizer,Free,42k,15.7k,C,printables,Modular system
+MakerWorld,Bearing Generator,Parametric,Free,15.7k,39.6k,C,makerworld,OpenSCAD high downloads
+Printables,Magnetic Socket Organiser Parametric OpenSCAD,Tool Organizer,Free,1.6k,497,C,printables,Parametric technical
+Cults3D,IKEA SKADIS Cable Management,Organizer,1.80+,Medium,N/A,B,cults functional collection,System compatible
+Printables,Charger Cable Organizer 2nd,Cable,Free,49k,11.2k,C,printables,High free demand
+Cults3D,Universal Phone Holder,Functional,4.48+,Medium,N/A,B,cults functional,Adapter
+Printables,Gravity Broom Holder,Home Functional,Free,86k,29.4k,C,printables,Simple functional high downloads
+Cults3D,Fast-print Modular Storage Drawer,Organizer,N/A,High,N/A,B,cults,Functional
+Printables,Customizable Silica Gel Container,Functional,Free,N/A,N/A,C,printables makes,Utility
+Etsy/eBay Proxy,Home Workshop Organizers,Organizer,16.99 median,592+ sales/30d,N/A,B,zikanalytics,Proven physical sales; files similar
+Cults3D,Retro Fridge USB Storage,Organizer,N/A,High,N/A,B,cults bestsellers,Functional gadget
+Printables,Build Tray Modular Organizer,Organizer,Free,28k,9.5k,C,printables,Workshop
+MakerWorld,Plug Generator Parametric,Parametric,Free,1.1k,1.5k,C,makerworld,Technical
+Cults3D,Mansions of Madness Inserts,Hobby Organizer,11.60,High,N/A,B,cults,Board game functional
+Printables,Filament Clip with Screw,Organizer,Free,26k,4.9k,C,printables,Variant
+Cults3D,Ping Pong Pistol with Sound,Functional Toy,5.81,High,N/A,B,cults,Mechanical
+Printables,Reusable Zip Tie,Functional,Free,18k,5.8k,C,printables,Utility clip
+Cults3D,Electronic Box 4 Compartments,Electronics Enclosure,1.17+,Medium,N/A,B,cults functional,Technical
+Printables,Parametric Cable Organizer V2,Cable,Free,21k,10.2k,C,printables,Parametric
+Cults3D,Angle Grinder Pizza Cutter,Novelty Functional,1.17+,Medium,N/A,B,cults,Fun functional
+Printables,Nano Vice,Tool,Free,990,126,C,printables functional,Small tool
+Cults3D,Automatic Coin Sorter Euro,Functional,4.08+,Medium,N/A,B,cults,Technical
+Printables,LED Strip Soldering Jigs,Electronics,Free,3.7k,2.8k,C,printables contest,Technical
+Cults3D,Wetsuit Hanger,Functional,5.84,Medium,N/A,B,cults,Hobby specific
+Printables,Under Desk Cable Management,Cable,Free,5.2k,2.6k,C,printables,Organizer
