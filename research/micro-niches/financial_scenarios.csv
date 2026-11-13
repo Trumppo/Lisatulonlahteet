@@ -1,0 +1,6 @@
+﻿opportunity_id,concept,price_or_monthly_fee_eur,unit_manufacturing_cost_eur,platform_payment_fee_rate,shipping_packaging_cost_eur,refund_failure_reserve_eur,weak_units_or_accounts,base_units_or_accounts,target_units_or_accounts,stretch_units_or_accounts,monthly_fixed_cost_eur,assumptions_note
+O01,Model-specific non-critical replacement-part catalog,12.0,2.4,0.11,0.7,0.7,5,25,75,150,15,Planning assumptions only; not quoted supplier costs or observed sales. Contribution before income tax and owner labor.
+O02,Personalized team equipment station bundle,18.0,5.2,0.04,2.0,0.8,5,15,60,120,5,Planning assumptions only; not quoted supplier costs or observed sales. Contribution before income tax and owner labor.
+O03,Generic board-game missing-piece bundle,14.0,3.5,0.1,2.5,0.7,10,24,87,172,10,Planning assumptions only; not quoted supplier costs or observed sales. Contribution before income tax and owner labor.
+O06,Repair-shop intake template/automated form license,39.0,0.0,0.08,0.3,0.6,0,3,15,30,3.0,Planning assumptions only; not quoted supplier costs or observed sales. Contribution before income tax and owner labor.
+O07,Repair-shop used-parts listing/coordination subscription,19.0,0.0,0.08,0.3,0.5,0,8,31,61,6.0,Planning assumptions only; not quoted supplier costs or observed sales. Contribution before income tax and owner labor.
